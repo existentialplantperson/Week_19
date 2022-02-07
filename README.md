@@ -22,3 +22,7 @@ https://machinelearningmastery.com/dimensionality-reduction-algorithms-with-pyth
 
 
 Other References:
+KMeans:
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
+https://avidml.wordpress.com/2016/10/29/easily-understand-k-means-clustering/
+https://www.analyticsvidhya.com/blog/2021/05/k-means-clustering-with-mall-customer-segmentation-data-full-detailed-code-and-explanation/
