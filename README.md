@@ -26,3 +26,12 @@ KMeans:
 https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
 https://avidml.wordpress.com/2016/10/29/easily-understand-k-means-clustering/
 https://www.analyticsvidhya.com/blog/2021/05/k-means-clustering-with-mall-customer-segmentation-data-full-detailed-code-and-explanation/
+
+Hierarchical Clustering:
+https://scikit-learn.org/stable/modules/clustering.html?highlight=dendrite#hierarchical-clustering
+
+performing multiple aggregate functions across columns:
+https://stackoverflow.com/questions/14529838/apply-multiple-functions-to-multiple-groupby-columns
+
+tutorial with this dataset:
+https://medium.com/analytics-vidhya/sales-report-in-pandas-c4ef777cc490
